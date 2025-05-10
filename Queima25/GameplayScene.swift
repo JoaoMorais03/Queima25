@@ -263,7 +263,7 @@ class GameplayScene: SKScene {
         case .game:
             self.backgroundColor = darkerSystemGreen // Darker Green background for game
             bubbleColor = .systemGreen // Standard Green for bubble
-            categoryText = "2 ou 1"
+            categoryText = "JOGO"
             isCategoryHidden = false
         case .never:
             self.backgroundColor = UIColor.systemIndigo // Darker Green background for game
